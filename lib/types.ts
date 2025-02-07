@@ -20,6 +20,7 @@ export enum EventType {
   Hackathon = "Hackathon",
   TechFest = "Tech Fest",
   Bootcamp = "Bootcamp",
+  Workshop = "Workshop",
 }
 
 export interface Event {

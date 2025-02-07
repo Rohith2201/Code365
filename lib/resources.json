@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "title": "DSA Cheat Sheet",
+      "type": "drive",
+      "url": "https://docs.google.com/spreadsheets/d/1SB9SudeHrS729P38isNxwBIuB09p7wxa",
+      "description": "A comprehensive cheat sheet for Data Structures and Algorithms"
+    },
+    {
+      "title": "Coding Resources",
+      "type": "drive",
+      "url": "https://github.com/Rohith2201/Coding-Resources",
+      "description": "Coding Resources For Students with Detailed RoadMaps"
+    },{
+      "title": "Job Resources",
+      "type": "drive",
+      "url": "https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y",
+      "description": "Interview Tips, Company wise DSA Questions, DSA Common Notes"
+    },
+    {
+      "title": "Company Wise Hr List",
+      "type": "drive",
+      "url": "https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII",
+      "description": "Hr Details for Cold Emailing"
+    },
+    {
+      "title": "Cold Emailing Template",
+      "type": "drive",
+      "url": "https://drive.google.com/file/d/1ytI4OVc_IANFGS_nZ3BB9yVui4fucsLd",
+      "description": "Templates For Cold Emailing"
+    },{
+      "title": "Requesting Referral Template",
+      "type": "drive",
+      "url": "https://drive.google.com/file/d/11Sf7cX2iP8LUnsg96idxXnJ9-T8Z7Ijo",
+      "description": "Template For Requesting Referral"
+    },
+    {
+      "title": "Best Youtube Resources",
+      "type": "drive",
+      "url": "https://github.com/Rohith2201/Coding-Resources/blob/main/youtube.md",
+      "description": "Youtube Resources For Students"
+    },
+    {
+      "title": "System Design Primer",
+      "type": "pdf",
+      "url": "/resources/system-design-primer.pdf",
+      "description": "An introduction to system design concepts and best practices"
+    },
+    {
+      "title": "Time Complexity Cheat Sheet",
+      "type": "drive",
+      "url": "https://www.bigocheatsheet.com/",
+      "description": "A comprehensive cheat sheet for Data Structures and Algorithms"
+    },
+    {
+      "title": "Company Wise Projects",
+      "type": "drive",
+      "url": "https://github.com/Rohith2201/company-wise-projects",
+      "description": "Top ideas for a particular company to build some crazy projects."
+    },
+    {
+      "title": "Best Open Source Projects",
+      "type": "drive",
+      "url": "https://dev.to/arindam_1729/top-5-open-source-projects-you-must-explore-before-2025-3l6l",
+      "description": "Open Source Projects"
+    },
+    {
+      "title": "Big O Notation Explained",
+      "type": "image",
+      "url": "/resources/big-o-notation.png",
+      "description": "Visual explanation of Big O notation and time complexities"
+    }
+  ]
+}
+

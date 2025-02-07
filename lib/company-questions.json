@@ -1,0 +1,202 @@
+{
+  "companies": [
+    {
+      "name": "Google",
+      "questions": [
+        {
+          "id": "1",
+          "title": "Median of Two Sorted Arrays",
+          "difficulty": "Hard",
+          "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+          "topics": ["Array", "Binary Search", "Divide and Conquer"],
+          "companies": ["Google", "Amazon", "Microsoft"]
+        },
+        {
+          "id": "2",
+          "title": "Regular Expression Matching",
+          "difficulty": "Hard",
+          "url": "https://leetcode.com/problems/regular-expression-matching/",
+          "topics": ["String", "Dynamic Programming", "Recursion"],
+          "companies": ["Google", "Facebook", "Microsoft"]
+        },
+        {
+          "id": "3",
+          "title": "Longest Palindromic Substring",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+          "topics": ["String", "Dynamic Programming"],
+          "companies": ["Google", "Amazon", "Microsoft"]
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "questions": [
+        {
+          "id": "4",
+          "title": "Two Sum",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/two-sum/",
+          "topics": ["Array", "Hash Table"],
+          "companies": ["Microsoft", "Amazon", "Facebook"]
+        },
+        {
+          "id": "5",
+          "title": "Add Two Numbers",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/add-two-numbers/",
+          "topics": ["Linked List", "Math"],
+          "companies": ["Microsoft", "Amazon"]
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "questions": [
+        {
+          "id": "6",
+          "title": "LRU Cache",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/lru-cache/",
+          "topics": ["Hash Table", "Linked List", "Design"],
+          "companies": ["Amazon", "Microsoft", "Google"]
+        },
+        {
+          "id": "7",
+          "title": "Merge K Sorted Lists",
+          "difficulty": "Hard",
+          "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+          "topics": ["Linked List", "Divide and Conquer", "Heap"],
+          "companies": ["Amazon", "Google"]
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "questions": [
+        {
+          "id": "8",
+          "title": "Valid Parentheses",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/valid-parentheses/",
+          "topics": ["String", "Stack"],
+          "companies": ["Facebook","Ibm", "Amazon", "Microsoft"]
+        },
+        {
+          "id": "9",
+          "title": "Clone Graph",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/clone-graph/",
+          "topics": ["Graph", "DFS", "BFS"],
+          "companies": ["Facebook", "Google"]
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "questions": [
+        {
+          "id": "10",
+          "title": "Reverse Linked List",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/reverse-linked-list/",
+          "topics": ["Linked List"],
+          "companies": ["Apple","Ibm", "Microsoft", "Amazon"]
+        },
+        {
+          "id": "11",
+          "title": "Trapping Rain Water",
+          "difficulty": "Hard",
+          "url": "https://leetcode.com/problems/trapping-rain-water/",
+          "topics": ["Array", "Two Pointers", "Dynamic Programming"],
+          "companies": ["Apple", "Amazon", "Google"]
+        }
+      ]
+    },
+    {
+      "name": "Netflix",
+      "questions": [
+        {
+          "id": "12",
+          "title": "Binary Tree Level Order Traversal",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+          "topics": ["Tree", "BFS"],
+          "companies": ["Netflix", "Amazon", "Microsoft"]
+        },
+        {
+          "id": "13",
+          "title": "Design Hit Counter",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/design-hit-counter/",
+          "topics": ["Design", "Queue"],
+          "companies": ["Netflix", "Google"]
+        }
+      ]
+    },
+    {
+      "name": "Ibm",
+      "questions": [
+        {
+          "id": "14",
+          "title": "Binary Tree Level Order Traversal",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+          "topics": ["Tree", "BFS"],
+          "companies": ["Ibm","Netflix", "Amazon", "Microsoft"]
+        },
+        {
+          "id": "15",
+          "title": "Design Hit Counter",
+          "difficulty": "Medium",
+          "url": "https://leetcode.com/problems/design-hit-counter/",
+          "topics": ["Design", "Queue"],
+          "companies": ["Ibm","Netflix", "Google"]
+        }
+      ]
+    },
+    {
+      "name": "Adobe",
+      "questions": [
+        {
+          "id": "16",
+          "title": "Number of Atoms",
+          "difficulty": "Hard",
+          "url": "https://leetcode.com/problems/number-of-atoms/",
+          "topics": ["Tree", "BFS"],
+          "companies": ["Adobe","Google", "Amazon"]
+        },
+        {
+          "id": "17",
+          "title": "Two Sum",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/two-sum/",
+          "topics": ["Array", "Hash Table"],
+          "companies": ["Ibm","Netflix","Amazon","Adobe", "Google"]
+        }
+      ]
+    },
+    {
+    "name": "Twitter",
+      "questions": [
+        {
+          "id": "18",
+          "title": "Number of Atoms",
+          "difficulty": "Hard",
+          "url": "https://leetcode.com/problems/number-of-atoms/",
+          "topics": ["Tree", "BFS"],
+          "companies": ["Twitter","Google", "Amazon"]
+        },
+        {
+          "id": "19",
+          "title": "Two Sum",
+          "difficulty": "Easy",
+          "url": "https://leetcode.com/problems/two-sum/",
+          "topics": ["Array", "Hash Table"],
+          "companies": ["Ibm","Netflix","Amazon", "Google"]
+        }
+      ]
+    }
+  ]
+}
+
