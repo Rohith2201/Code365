@@ -1,7 +1,7 @@
 # Code365
    
 [![NPM Version](https://img.shields.io/npm/v/npm?style=for-the-badge)](https://www.npmjs.com/)
-[![Website Status](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgprm.itsvg.in/)](https://gprm.itsvg.in/)
+[![Website Status](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgprm.itsvg.in/)](https://www.code365.tech/)
 [![License](https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 [![Code Size](https://img.shields.io/github/languages/code-size/rohith2201/Code365?logo=github&style=for-the-badge)](https://github.com/rohith2201/Code365)
 <br>
