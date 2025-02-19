@@ -10,10 +10,9 @@
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://www.code365.tech/)
 
 
-
-
 ## Overview 👀
 ![](code365.png)
+
 
 ## Our Mission
 At Code 365, my mission is to empower aspiring programmers and experienced developers alike to master Data Structures and Algorithms (DSA). I believe that a strong foundation in these fundamental concepts is crucial for success in the ever-evolving world of technology.
@@ -31,6 +30,9 @@ I Designed platform to provide a structured, comprehensive, and engaging learnin
 **Rohith Juluru**  
 Lead Developer  
 
+## PageSpeed Insights
+![](lightspeed.png)
+
 ## Tech Used
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,8 +44,6 @@ Lead Developer
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 [![image](https://user-images.githubusercontent.com/81325730/209995550-63bdb319-f8fd-4383-bcfc-9021c4bc5642.png)](https://vercel.com/)
 
-## PageSpeed Insights
-![](lightspeed.png)
 
 <details>
 <summary>
@@ -94,9 +94,6 @@ We welcome contributions from the community! If you have ideas, suggestions, or 
 
 
 ---
-
-
-
 
 ### License
 Code 365 is open-source and distributed under the MIT License. See `LICENSE` for more details.
