@@ -67,7 +67,7 @@ Your feedback is invaluable to us! Share your thoughts, suggestions, or feature 
 We're committed to continually improving and expanding Code 365 to meet the needs of our community. Together, let's unlock the power of algorithms and data structures!
 
 ---
-#### Curated list of question in [Code365] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
+
 
 [Code365]: https://www.code365.tech/
 [love babbar]: https://www.linkedin.com/in/love-babbar-38ab2887/
@@ -80,3 +80,5 @@ This project is built with the following technologies:
 <div align="center">
 <img src="https://tech-orbit.wontory.dev/api?title=Code365&tech=TypeScript,JSON,React,Tailwind%20CSS,Vercel,Next.js&size=750&duration=20">
 </div>
+
+#### Curated list of question in [Code365] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
