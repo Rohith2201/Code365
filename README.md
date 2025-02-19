@@ -42,6 +42,9 @@ Lead Developer
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 [![image](https://user-images.githubusercontent.com/81325730/209995550-63bdb319-f8fd-4383-bcfc-9021c4bc5642.png)](https://vercel.com/)
 
+## PageSpeed Insights
+![](lightspeed.png)
+
 <details>
 <summary>
   NextJS Guide
