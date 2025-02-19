@@ -4,6 +4,10 @@
 [![React Badge](https://img.shields.io/badge/BUILT%20ON%20-Next.JS-blue?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://www.code365.tech/)
 
+
+## Overview 👀
+![](code365.png)
+
 ## Our Mission
 At Code 365, my mission is to empower aspiring programmers and experienced developers alike to master Data Structures and Algorithms (DSA). I believe that a strong foundation in these fundamental concepts is crucial for success in the ever-evolving world of technology.
 
