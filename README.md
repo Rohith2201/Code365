@@ -1,6 +1,7 @@
 # Code365
 
 [![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![React Badge](https://img.shields.io/badge/BUILT%20ON%20-Next.JS-blue?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://www.code365.tech/)
 
 ## Our Mission
