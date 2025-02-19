@@ -103,7 +103,7 @@ Code 365 is open-source and distributed under the MIT License. See `LICENSE` for
 
 This project is built with the following technologies:
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=Code365&tech=TypeScript,JSON,React,Tailwind%20CSS,Vercel,Next.js&size=750&duration=20">
+<img src="https://tech-orbit.wontory.dev/api?title=Code365&tech=TypeScript,JSON,React,Tailwind%20CSS,Vercel,Next.js&size=700&duration=20">
 </div>
 
 ---
