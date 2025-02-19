@@ -1,8 +1,15 @@
 # Code365
-
+   
+[![NPM Version](https://img.shields.io/npm/v/npm?style=for-the-badge)](https://www.npmjs.com/)
+[![Website Status](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgprm.itsvg.in/)](https://gprm.itsvg.in/)
+[![License](https://img.shields.io/badge/License-GPL%20v3-brightgreen?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+[![Code Size](https://img.shields.io/github/languages/code-size/rohith2201/Code365?logo=github&style=for-the-badge)](https://github.com/rohith2201/Code365)
+<br>
 [![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![React Badge](https://img.shields.io/badge/BUILT%20ON%20-Next.JS-blue?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Nextjs Badge](https://img.shields.io/badge/BUILT%20ON%20-Next.JS-blue?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://www.code365.tech/)
+
+
 
 
 ## Overview 👀
@@ -23,6 +30,22 @@ I Designed platform to provide a structured, comprehensive, and engaging learnin
 ## Meet The Developer
 **Rohith Juluru**  
 Lead Developer  
+
+## Tech Used
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![image](https://user-images.githubusercontent.com/81325730/209995550-63bdb319-f8fd-4383-bcfc-9021c4bc5642.png)](https://vercel.com/)
+
+<details>
+<summary>
+  NextJS Guide
+</summary>
 
 ## Getting Started
 
@@ -61,21 +84,16 @@ Before running the platform, ensure the following files are created in the `lib`
 
 The structure and format of these files should follow the JSON schema used by the platform.
 
+</details>
+
 ## Contributing
 We welcome contributions from the community! If you have ideas, suggestions, or would like to contribute code, feel free to submit a pull request or create an issue.
 
-## Feedback and Suggestions
-Your feedback is invaluable to us! Share your thoughts, suggestions, or feature requests by contacting us or opening an issue on the repository.
-
-## Join Us on This Journey
-We're committed to continually improving and expanding Code 365 to meet the needs of our community. Together, let's unlock the power of algorithms and data structures!
 
 ---
 
 
-[Code365]: https://www.code365.tech/
-[love babbar]: https://www.linkedin.com/in/love-babbar-38ab2887/
-[dsa cracker sheet]: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+
 
 ### License
 Code 365 is open-source and distributed under the MIT License. See `LICENSE` for more details.
@@ -87,3 +105,6 @@ This project is built with the following technologies:
 
 ---
 #### Curated list of question in [Code365] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
+[Code365]: https://www.code365.tech/
+[love babbar]: https://www.linkedin.com/in/love-babbar-38ab2887/
+[dsa cracker sheet]: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
