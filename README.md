@@ -81,4 +81,5 @@ This project is built with the following technologies:
 <img src="https://tech-orbit.wontory.dev/api?title=Code365&tech=TypeScript,JSON,React,Tailwind%20CSS,Vercel,Next.js&size=750&duration=20">
 </div>
 
+---
 #### Curated list of question in [Code365] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
