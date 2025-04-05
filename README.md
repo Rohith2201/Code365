@@ -25,6 +25,8 @@ I Designed platform to provide a structured, comprehensive, and engaging learnin
 - **Community Support:** An active community of learners and experienced developers for collaboration and support.
 - **Progress Tracking:** Tools to monitor your growth and identify areas for improvement.
 - **Contests and Challenges:** Regular events to test your skills and compete with peers.
+- Referral Request Templates – Boost your chances
+- Top YouTube & Open Source Projects – Learn & contribute
 
 ## Meet The Developer
 **Rohith Juluru**  
