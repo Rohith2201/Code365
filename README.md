@@ -1,4 +1,4 @@
-# Code365
+# Code365 v 1.0 is now OpenSource
    
 [![NPM Version](https://img.shields.io/npm/v/npm?style=for-the-badge)](https://www.npmjs.com/)
 [![Website Status](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgprm.itsvg.in/)](https://www.code365.tech/)
